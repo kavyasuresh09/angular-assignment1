@@ -1,0 +1,128 @@
+.menu-item {
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+cursor: pointer;
+}
+.menu-item-login{  
+width: 118px;
+height: 45px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+text-align: center;
+padding-top: 7px;
+cursor: pointer;
+}
+
+.menu-item-start{ 
+    width: 166px;
+    height: 45px;
+    background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #00000033;
+    border-radius: 24px;
+    opacity: 1;
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+    cursor: pointer;
+}
+.circle {
+    height: 1192px;
+    background-size: 1192px, 100px;
+    /* transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0); */
+    background: url('../assets/circle.png') 0% 0% no-repeat padding-box, url('../assets/blob-small.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-position:
+    top -227.9068603515625px left 502px,
+    top 213px left -179px;
+    width: 100%;
+    /* max-width: 100%; */
+}
+.blob-small {
+    top: 213px;
+left: -179px;
+width: 571px;
+height: 572px;
+background: transparent url('../assets/blob-small.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.moto {
+top: 270px;
+left: 189px;
+width: 407px;
+height: 98px;
+background: transparent url('../assets/We make it Super Sim.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.moto-line {
+top: 376px;
+left: 192px;
+width: 236px;
+height: 8px;
+background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+}
+.collect-img {
+/* width: 300px; */
+height: 300px;
+object-fit: cover;
+background: transparent url('../assets/collect_img-video.png') 65% 0% no-repeat padding-box;
+border-radius: 1.25rem;
+opacity: 1;
+}
+/* .acnt-dots {
+    left: 462px;
+width: 430px;
+height: 70px;
+opacity: 0.5;
+background: transparent url('../assets/accounting_dots.png') 0% 0% no-repeat padding-box;
+} */
+
+.group-6 {
+top: 270px;
+left: 1100px;
+width: 688px;
+height: 675px;
+background: transparent url('../assets/Group 6.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.sol-wave {
+/* width: 1920px; */
+height: 936px;
+background: transparent url('../assets/sol_wave_bg.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+width: 100%;
+max-width: 100%;
+}
+.open-acnt {
+top: 1686px;
+left: 1158px;
+width: 279px;
+height: 58px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+text-align: center;
+padding: 14px;
+color: #663399;
+cursor: pointer;
+}
+.get-money {
+    box-shadow: 0px 0px 20px #00000033;
+    border: 2px solid #663399;
+    border-radius: 24px;
+    opacity: 1;
+    text-align: center;
+    padding: 10px;
+    color: #663399;
+    background-color: #ffffff;
+    cursor: pointer;
+}

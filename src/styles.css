@@ -1,0 +1,75 @@
+/* You can add global styles to this file, and also import other style files */
+/* 
+.form-control-range::-webkit-slider-thumb {
+    background: gray !important;
+  }
+  
+  .form-control-range::-moz-range-thumb {
+    background: gray !important;
+  }
+  
+  .form-control-range::-ms-thumb {
+    background: gray !important;
+  }
+
+input[type=range]::-webkit-slider-thumb {
+    background: red;
+}
+input[type=range]::-moz-range-thumb {
+    background: red;
+}
+input[type=range]::-ms-thumb {
+    background: red;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #bd369b;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #bd369b;
+}
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #bd369b;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 8.4px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #bd369b;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #bd369b;
+}
+input[type=range]::-ms-fill-upper {
+  background: #bd369b;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #bd369b;
+} */
